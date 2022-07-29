@@ -15,3 +15,6 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
   1. There are 1549 employees who qualify for this program 
   2. There are 735 employees with senior positions who qualify for this program.
 
+## 3. Summary 
+Based on the results from these last two analyses Bobby's manager asked, we can conclude that there will be left many available positions due to the retirement of so many employees, the exast number being 98,395. On the other hand, there are only 1,549 employees who are elegible to mentor employees and these can count disadvantages for current employees who have to mentor a handful of employees. 
+
