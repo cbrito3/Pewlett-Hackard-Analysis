@@ -10,6 +10,8 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
 * The results determining the number of retiring employees per title show that: 
   1. There are 2 Managers
   2. There are 4502 Technical Leaders
+  <img width="427" alt="mentorship_titles" src="https://user-images.githubusercontent.com/107222716/181680588-4618c4d1-7704-4bed-bea2-9cef758f444f.png">
+
 
 * The reuslts of the employees who are eligible to participate in a mentorship program show that:
   1. There are 1549 employees who qualify for this program 
