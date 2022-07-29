@@ -12,9 +12,11 @@ The overview of the analysis consists in determining the number of retiring empl
   2. There are 4502 Technical Leaders
   
 Retirement Titles
+
 <img width="692" alt="retirement_titles" src="https://user-images.githubusercontent.com/107222716/181680835-02f34cb1-23da-4c47-8938-96352b803cd9.png">
 
 Retiring Titles
+
 <img width="789" alt="retiring_titles" src="https://user-images.githubusercontent.com/107222716/181680852-4bce5e93-d779-4bfe-8a0a-f678abd21dcf.png">
 
 
@@ -23,9 +25,11 @@ Retiring Titles
   2. There are 735 employees with senior positions who qualify for this program.
 
 Mentorship Eligibility
+
 <img width="898" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/107222716/181680973-780448e2-af87-48ce-a211-c6b2c30d0439.png">
 
 Mentorship Titles
+
 <img width="427" alt="mentorship_titles" src="https://user-images.githubusercontent.com/107222716/181681057-cb05b2bb-79d4-4915-9c4f-d486ffc88137.png">
 
 
